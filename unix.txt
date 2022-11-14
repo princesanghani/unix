@@ -1,0 +1,7 @@
+vi demo.sh
+i
+lakhi ne Esc
+:wq
+
+
+sh demo.sh
